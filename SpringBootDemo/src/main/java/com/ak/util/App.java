@@ -1,4 +1,4 @@
-package com.ak.SpringBootDemo;
+package com.ak.util;
 
 /**
  * Hello world!
